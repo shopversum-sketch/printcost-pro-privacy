@@ -2,61 +2,30 @@
 
 **Stand: 24. Februar 2026**
 
-## Einleitung
+## Verantwortlicher
 
-PrintCost Pro ("wir", "unsere" oder "die App") verpflichtet sich, Ihre Privatsphäre zu schützen. Diese Datenschutzerklärung erläutert, wie wir mit Ihren Informationen umgehen.
+PrintCost Pro  
+Entwickler: Onur Dogan - Shopversum  
+Kontakt: shopversum@gmail.com
 
-## Datenerfassung
+## Datenverarbeitung in der App
 
-**Wir erfassen keine personenbezogenen Daten.**
+PrintCost Pro arbeitet vollständig offline. Es werden in der App keine personenbezogenen Daten erhoben, gespeichert, übermittelt oder sonst verarbeitet. Es findet keine Serverkommunikation statt, es werden keine Analyse-Tools, keine Tracking-Technologien und keine Drittanbieter-SDKs verwendet. Es gibt keinen Login und keine Nutzerkonten. Daten verbleiben ausschließlich lokal auf dem Gerät des Nutzers.
 
-PrintCost Pro wurde mit Datenschutz als Kernprinzip entwickelt:
-- Alle Ihre Daten (Drucker, Materialien, Berechnungen) werden **lokal auf Ihrem Gerät** gespeichert
-- Wir erfassen, übertragen oder speichern **keine** Daten auf externen Servern
-- Wir verwenden **keine** Analyse-, Tracking- oder Werbedienste
-- Wir benötigen **keine** Benutzerkonten oder Anmeldung
+## In-App-Käufe über Apple
 
-## Datenspeicherung
+Kostenpflichtige Pläne (Pro & Ultimate) werden ausschließlich über das Apple-In-App-Purchase-System bereitgestellt. Die Verarbeitung von personenbezogenen Daten im Zusammenhang mit dem Erwerb, der Abrechnung und Verwaltung dieser Käufe erfolgt durch Apple als eigenständigen Verantwortlichen. Informationen hierzu finden Sie in der Datenschutzrichtlinie von Apple: https://www.apple.com/de/legal/privacy/
 
-Alle App-Daten werden lokal mit Hive (Offline-Datenbank) gespeichert:
-- Druckerprofile
-- Filamentmaterialien
-- Kostenberechnungen
-- App-Einstellungen (Sprache, Dark Mode)
+Bei Fragen zu diesen Vorgängen wenden Sie sich bitte an Apple.
 
-Diese Daten **verlassen niemals Ihr Gerät** und sind nur für Sie zugänglich.
+## Empfänger/Übermittlungen
 
-## Drittanbieterdienste
+Es erfolgen keine Übermittlungen personenbezogener Daten an Dritte durch PrintCost Pro.
 
-PrintCost Pro nutzt Apples In-App-Kauf-System für Pro- und Ultimate-Plan-Abonnements. Apple kann Zahlungsinformationen gemäß ihrer eigenen Datenschutzrichtlinie erfassen:
-https://www.apple.com/de/legal/privacy/
+## Rechtsgrundlagen und Betroffenenrechte
 
-Wir haben **keinen** Zugriff auf Ihre Zahlungsinformationen.
+Da PrintCost Pro keine personenbezogenen Daten verarbeitet, sind Betroffenenrechte (Auskunft, Berichtigung, Löschung, Einschränkung, Widerspruch, Datenübertragbarkeit) gegenüber dem Verantwortlichen nicht einschlägig. Sollten Sie dennoch eine Anfrage stellen wollen, kontaktieren Sie uns unter shopversum@gmail.com.
 
-## Datenlöschung
+## Änderungen
 
-Sie können alle App-Daten jederzeit löschen durch:
-1. Löschen einzelner Drucker, Materialien oder Berechnungen in der App
-2. Deinstallation der App von Ihrem Gerät
-
-## Datenschutz für Kinder
-
-PrintCost Pro erfasst wissentlich keine Informationen von Kindern. Die App ist für alle Altersgruppen sicher.
-
-## Änderungen dieser Richtlinie
-
-Wir können diese Datenschutzerklärung von Zeit zu Zeit aktualisieren. Wir werden Sie über Änderungen durch Aktualisierung des Datums "Stand" informieren.
-
-## Kontakt
-
-Bei Fragen zu dieser Datenschutzerklärung kontaktieren Sie uns unter:
-**shopversum@gmail.com**
-
-## Ihre Rechte (DSGVO)
-
-Wenn Sie sich in der Europäischen Union befinden, haben Sie folgende Rechte:
-- **Auskunftsrecht**: Sie haben vollständigen Zugriff auf alle Ihre Daten innerhalb der App
-- **Recht auf Löschung**: Sie können alle Daten durch Deinstallation der App löschen
-- **Recht auf Datenübertragbarkeit**: Sie können Ihre Berechnungen als PDF/CSV exportieren (Pro-Plan)
-
-Da wir keine Daten erfassen, gelten die meisten DSGVO-Rechte nicht.
+Bei funktionalen Änderungen, die eine Verarbeitung personenbezogener Daten einführen würden, aktualisieren wir diese Erklärung und stellen die erforderlichen Informationen nach Art. 13/14 DSGVO bereit.

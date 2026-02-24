@@ -50,7 +50,7 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 ## Contact
 
 If you have questions about this Privacy Policy, contact us at:
-**[shopversum@gmail.com]**
+**shopversum@gmail.com**
 
 ## Your Rights (GDPR)
 
